@@ -199,7 +199,8 @@ margin-bottom: -5px;
     width: 350px;
     margin-top: 4% ;
     margin-left: 33% ;
-    background: linear-gradient(#fdfdfd, #dddddd);
+     background-color: #f4f4f4;
+ /*  background: linear-gradient(#fdfdfd, #dddddd);*/
     position: fixed;
     top: 50px;
     left: 50px;
